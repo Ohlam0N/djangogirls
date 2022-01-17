@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-pout3ufme04(#x1j#g3lu&bf5852#ya5t3f9y%#$r41nu9z#*&
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
-
+import os
 
 # Application definition
 
